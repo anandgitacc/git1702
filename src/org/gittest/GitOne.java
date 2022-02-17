@@ -14,6 +14,11 @@ public class GitOne {
 		System.out.println("git test 3");
 	}
 	
+	private void five() {
+		
+		System.out.println("Location : OMR");
+	}
+	
 	public static void main(String[] args) {
 		
 		GitOne g = new GitOne();
