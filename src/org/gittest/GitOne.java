@@ -14,6 +14,11 @@ public class GitOne {
 		System.out.println("git test 3");
 	}
 	
+	private void four() {
+		
+		System.out.println("Mobile : 8939278836");
+	}
+	
 	public static void main(String[] args) {
 		
 		GitOne g = new GitOne();
