@@ -14,10 +14,20 @@ public class GitOne {
 		System.out.println("git test 3");
 	}
 	
+	private void five() {
+		
+		System.out.println("Location : OMR");
+		}
+	
 	private void four() {
 		
 		System.out.println("Mobile : 8939278836");
 	}
+//<<<<<<< HEAD
+	
+//=======
+	
+//>>>>>>> d7a21d4be8af53f2ea08e89c3811a113a8aa72b4
 	
 	public static void main(String[] args) {
 		
